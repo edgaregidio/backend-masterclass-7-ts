@@ -6,6 +6,10 @@ const users = [
     name: "Edgar", 
     email: "teste@teste.com"
   },
+  {
+    name: "Edgar 2", 
+    email: "teste@teste.com 2"
+  },
 ];
 
 export default {
